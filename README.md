@@ -29,7 +29,7 @@ The **Brain Tumor Detection** project, initiated by [Your Name], is a dynamic en
 The Brain Tumor Detection project is a work in progress, and future updates are planned, including but not limited to:
 - Integration of additional datasets for model training.
 - Optimization of existing algorithms and models for improved accuracy.
-- Creating a user interface for enhanced usability.
+- Trying some other models such as KNN and other Neural Network
 
 Stay tuned for regular updates and improvements!
 

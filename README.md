@@ -4,7 +4,7 @@
 
 ## Overview:
 
-The **Brain Tumor Detection** project, initiated by [Your Name], is a dynamic endeavor focused on the development of a robust system for detecting brain tumors in medical imaging data. Leveraging state-of-the-art machine learning and image processing techniques, this project aims to contribute to early and accurate diagnosis in the field of medical imaging.
+The **Brain Tumor Detection** project,is a dynamic endeavor focused on the development of a robust system for detecting brain tumors in medical imaging data. Leveraging state-of-the-art machine learning and image processing techniques, this project aims to contribute to early and accurate diagnosis in the field of medical imaging.
 
 ## Key Features:
 
